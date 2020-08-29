@@ -1,0 +1,112 @@
+2020-08-21	14:33:30 输入用户名=====操作失败===org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div/div[2]/div/div[2]/ul/form/li[1]/div/div/input
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'XTZJ-2019DFAFOI', ip: '172.16.0.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 79.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200720193547, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 1312, moz:profile: C:\Users\Administrator\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 928a7f9c-c1a0-47fd-bbbb-94c11aa9834f
+*** Element info: {Using=xpath, value=/html/body/div/div/div/div[2]/div/div[2]/ul/form/li[1]/div/div/input}
+2020-08-21	14:33:32 点击登录=====操作失败===org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div/div[2]/div/div[2]/a
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'XTZJ-2019DFAFOI', ip: '172.16.0.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 79.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200720193547, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 1312, moz:profile: C:\Users\Administrator\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 928a7f9c-c1a0-47fd-bbbb-94c11aa9834f
+*** Element info: {Using=xpath, value=/html/body/div/div/div/div[2]/div/div[2]/a}
+2020-08-21	14:37:56 输入用户名:操作完成
+2020-08-21	14:37:57 点击登录:操作完成
+2020-08-21	14:37:58 输入用户名不输入密码测试用例操作成功
+2020-08-21	14:38:21 点击登录:操作完成
+2020-08-21	14:38:22 用户名和密码都不输入的用例操作成功
+2020-08-21	14:38:55 输入用户名:操作完成
+2020-08-21	14:38:56 输入密码:操作完成
+2020-08-21	14:38:57 点击登录:操作完成
+2020-08-21	14:38:58 输入不存在的用户用例操作成功
+2020-08-21	14:39:38 输入用户名:操作完成
+2020-08-21	14:39:39 输入密码:操作完成
+2020-08-21	14:39:40 点击登录:操作完成
+2020-08-21	14:39:41 输入错误的密码用例操作成功
+2020-08-21	14:40:12 输入用户名:操作完成
+2020-08-21	14:40:13 输入密码:操作完成
+2020-08-21	14:40:14 点击登录:操作完成
+2020-08-21	14:42:09 输入用户名:操作完成
+2020-08-21	14:42:10 点击登录:操作完成
+2020-08-21	14:42:10 输入用户名不输入密码测试用例操作成功
+2020-08-21	14:42:14 点击登录:操作完成
+2020-08-21	14:42:14 用户名和密码都不输入的用例操作成功
+2020-08-21	14:42:17 输入用户名:操作完成
+2020-08-21	14:42:19 输入密码:操作完成
+2020-08-21	14:42:20 点击登录:操作完成
+2020-08-21	14:42:20 输入不存在的用户用例操作成功
+2020-08-21	14:42:25 输入用户名:操作完成
+2020-08-21	14:42:27 输入密码:操作完成
+2020-08-21	14:42:28 点击登录:操作完成
+2020-08-21	14:42:29 输入错误的密码用例操作成功
+2020-08-21	14:42:32 输入用户名:操作完成
+2020-08-21	14:42:34 输入密码:操作完成
+2020-08-21	14:42:35 点击登录:操作完成
+2020-08-21	14:44:10 输入用户名:操作完成
+2020-08-21	14:44:11 点击登录:操作完成
+2020-08-21	14:44:11 输入用户名不输入密码测试用例操作成功
+2020-08-21	14:44:15 点击登录:操作完成
+2020-08-21	14:44:15 用户名和密码都不输入的用例操作成功
+2020-08-21	14:44:18 输入用户名:操作完成
+2020-08-21	14:44:19 输入密码:操作完成
+2020-08-21	14:44:20 点击登录:操作完成
+2020-08-21	14:44:20 输入不存在的用户用例操作成功
+2020-08-21	14:44:25 输入用户名:操作完成
+2020-08-21	14:44:26 输入密码:操作完成
+2020-08-21	14:44:28 点击登录:操作完成
+2020-08-21	14:44:29 输入错误的密码用例操作成功
+2020-08-21	14:44:33 输入用户名:操作完成
+2020-08-21	14:44:34 输入密码:操作完成
+2020-08-21	14:44:35 点击登录:操作完成
+2020-08-21	14:45:56 输入用户名:操作完成
+2020-08-21	14:45:57 点击登录:操作完成
+2020-08-21	14:45:57 输入用户名不输入密码测试用例操作成功
+2020-08-21	14:46:01 点击登录:操作完成
+2020-08-21	14:46:01 用户名和密码都不输入的用例操作成功
+2020-08-21	14:46:04 输入用户名:操作完成
+2020-08-21	14:46:05 输入密码:操作完成
+2020-08-21	14:46:06 点击登录:操作完成
+2020-08-21	14:46:07 输入不存在的用户用例操作成功
+2020-08-21	14:46:12 输入用户名:操作完成
+2020-08-21	14:46:13 输入密码:操作完成
+2020-08-21	14:46:14 点击登录:操作完成
+2020-08-21	14:46:15 输入错误的密码用例操作成功
+2020-08-21	14:46:19 输入用户名:操作完成
+2020-08-21	14:46:20 输入密码:操作完成
+2020-08-21	14:46:26 点击登录:操作完成
+2020-08-21	14:47:56 输入用户名:操作完成
+2020-08-21	14:47:57 点击登录:操作完成
+2020-08-21	14:47:57 输入用户名不输入密码测试用例操作成功
+2020-08-21	14:48:01 点击登录:操作完成
+2020-08-21	14:48:01 用户名和密码都不输入的用例操作成功
+2020-08-21	14:48:04 输入用户名:操作完成
+2020-08-21	14:48:05 输入密码:操作完成
+2020-08-21	14:48:07 点击登录:操作完成
+2020-08-21	14:48:07 输入不存在的用户用例操作成功
+2020-08-21	14:48:12 输入用户名:操作完成
+2020-08-21	14:48:14 输入密码:操作完成
+2020-08-21	14:48:15 点击登录:操作完成
+2020-08-21	14:48:16 输入错误的密码用例操作成功
+2020-08-21	14:48:19 输入用户名:操作完成
+2020-08-21	14:48:20 输入密码:操作完成
+2020-08-21	14:48:22 点击登录:操作完成
+2020-08-21	14:49:30 输入用户名:操作完成
+2020-08-21	14:49:31 点击登录:操作完成
+2020-08-21	14:49:31 输入用户名不输入密码测试用例操作成功
+2020-08-21	14:49:35 点击登录:操作完成
+2020-08-21	14:49:35 用户名和密码都不输入的用例操作成功
+2020-08-21	14:49:38 输入用户名:操作完成
+2020-08-21	14:49:39 输入密码:操作完成
+2020-08-21	14:49:40 点击登录:操作完成
+2020-08-21	14:49:41 输入不存在的用户用例操作成功
+2020-08-21	14:49:45 输入用户名:操作完成
+2020-08-21	14:49:47 输入密码:操作完成
+2020-08-21	14:49:48 点击登录:操作完成
+2020-08-21	14:49:49 输入错误的密码用例操作成功
+2020-08-21	14:49:52 输入用户名:操作完成
+2020-08-21	14:49:54 输入密码:操作完成
+2020-08-21	14:49:55 点击登录:操作完成
