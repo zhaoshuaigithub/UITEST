@@ -14,7 +14,7 @@ import java.security.PublicKey;
 public class UiTest {
 
     public  static  void main(String[] args) throws InterruptedException {
-        zonghemh(); //综合门户测试用例
+       // zonghemh(); //综合门户测试用例
         DaqiZonghe daqiZonghe = new DaqiZonghe();
         daqiZonghe.DaqiZonghe();//大气综合测试用例
      }

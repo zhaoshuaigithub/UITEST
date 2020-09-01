@@ -18,6 +18,7 @@ public class daochuTest {
 
     public  static  void main(String[] args) throws InterruptedException {
         test();
+
     }
     public static void test() throws InterruptedException {
         JavascriptExecutor js;
