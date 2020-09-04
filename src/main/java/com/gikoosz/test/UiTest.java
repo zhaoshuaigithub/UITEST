@@ -14,9 +14,11 @@ import java.security.PublicKey;
 public class UiTest {
 
     public  static  void main(String[] args) throws InterruptedException {
+        UntitledTest utitest = new UntitledTest();
+        utitest.untitled();
        // zonghemh(); //综合门户测试用例
-        DaqiZonghe daqiZonghe = new DaqiZonghe();
-        daqiZonghe.DaqiZonghe();//大气综合测试用例
+    //    DaqiZonghe daqiZonghe = new DaqiZonghe();
+    //    daqiZonghe.DaqiZonghe();//大气综合测试用例
      }
     public static void zonghemh() throws InterruptedException {
         final  String ceshiyongli ="【测试用例】";

@@ -45,14 +45,26 @@
             <classifier>sources</classifier>
             <type>java-source</type>
         </dependency>
-<!--
         <dependency>
-            <groupId>com.applitools</groupId>
-            <artifactId>eyes-selenium-java3</artifactId>
-            <version>3.141.4</version>
-            <classifier>sources</classifier>
-            <type>java-source</type>
-        </dependency> -->
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+        <!--
+                <dependency>
+                    <groupId>com.applitools</groupId>
+                    <artifactId>eyes-selenium-java3</artifactId>
+                    <version>3.141.4</version>
+                    <classifier>sources</classifier>
+                    <type>java-source</type>
+                </dependency> -->
         <!--
         <dependency>
             <groupId>org.scalatestplus</groupId>
